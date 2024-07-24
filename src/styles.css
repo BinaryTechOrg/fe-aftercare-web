@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Roboto';
+    src: url('../src/assets/fonts/Roboto-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(../src/assets/fonts/Roboto-Medium.ttf);
+}
+
+body{
+    background-color: #F8F9FA;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}

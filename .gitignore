@@ -1,6 +1,7 @@
 # Modules
 *.node_modules/
 *.node_modules
+node_modules
 
 # Compiled class file
 *.class
